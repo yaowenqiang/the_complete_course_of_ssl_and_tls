@@ -14,11 +14,24 @@
 + Asymmetrical Encryption
   + RSA(1024,2048, 4096)
   + ed25519
-# Hashing Algorithms
+
+### Hashing Algorithms
   + MD5(128 bit)
   + SHA-1(160 bit)
   + SHA-2(256,384, 512 bit)
   + RIPEMD(128, 160,256, 320 bits)
+
+### HMAC(Hashed Message Authentication Code)
+### Digital Signatures
+
+## CA 
+
+> digicert
+> let's encrypt
+
+> crt.sh
+> https://certificate.transparency.dev/
+
 
 
 
