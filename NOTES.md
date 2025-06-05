@@ -31,6 +31,26 @@
 
 > crt.sh
 > https://certificate.transparency.dev/
+> https://www.ssllabs.com/
+
+## TLS Handshake
+
+> openssl ciphers -v
+
+## SSL/TLS Vulnerabilities & Attacks
+
++ Downgrade Attack
++ Man in the Middle Attack
++ Poodle(Padding Oracle on Downgraded Legacy Encryption)
++ FREAK
++ SLOTH
++ Logjam
++ BEAST
++ Heartbleed
+
+
+
+
 
 
 
